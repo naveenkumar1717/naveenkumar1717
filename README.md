@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @naveenkumar
-- 👀 I’m interested in 3d printing and AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking for a developer job
+- 👀 I’m interested in Full stack Development
+- 🌱 I’m currently learning Java and DevOps
 - 📫 How to reach me naveenarjunan17@gmail.com
 
 <!---
