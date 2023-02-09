@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveenkumar
-- 👀 I’m interested in Full stack Development
-- 🌱 I’m currently learning Java and DevOps
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning kubernetes
 - 📫 How to reach me naveenarjunan17@gmail.com
 
 <!---
