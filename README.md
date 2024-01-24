@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @naveenkumar
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning kubernetes
+- 👀 I’m working as a DevOps Engineer 
 - 📫 How to reach me naveenarjunan17@gmail.com
 
 <!---
